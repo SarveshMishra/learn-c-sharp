@@ -1,4 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using LearnClass;
+namespace Program
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Test myName = new Test();
+            Console.WriteLine(myName.name);
+            
+
+
+
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, C#!");
 
 
@@ -103,3 +116,7 @@ Console.WriteLine($"Array names[0] {names[0]}, array names[1] {names[1]}, array 
     }
 
 
+
+        }
+    }
+}
