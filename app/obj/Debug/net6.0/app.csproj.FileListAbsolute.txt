@@ -1,0 +1,15 @@
+S:\Git@SarveshMishra\learn-c-sharp\app\bin\Debug\net6.0\app.exe
+S:\Git@SarveshMishra\learn-c-sharp\app\bin\Debug\net6.0\app.deps.json
+S:\Git@SarveshMishra\learn-c-sharp\app\bin\Debug\net6.0\app.runtimeconfig.json
+S:\Git@SarveshMishra\learn-c-sharp\app\bin\Debug\net6.0\app.dll
+S:\Git@SarveshMishra\learn-c-sharp\app\bin\Debug\net6.0\app.pdb
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.dll
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\refint\app.dll
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.pdb
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+S:\Git@SarveshMishra\learn-c-sharp\app\obj\Debug\net6.0\ref\app.dll
