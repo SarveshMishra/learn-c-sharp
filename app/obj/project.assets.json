@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sarve\\.nuget\\packages\\": {}
+    "C:\\Users\\sarvesh.m\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Git@SarveshMishra\\learn-c-sharp\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\sarvesh.m\\Repo\\learn-c-sharp\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "S:\\Git@SarveshMishra\\learn-c-sharp\\app\\app.csproj",
-      "packagesPath": "C:\\Users\\sarve\\.nuget\\packages\\",
-      "outputPath": "S:\\Git@SarveshMishra\\learn-c-sharp\\app\\obj\\",
+      "projectPath": "C:\\Users\\sarvesh.m\\Repo\\learn-c-sharp\\app\\app.csproj",
+      "packagesPath": "C:\\Users\\sarvesh.m\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sarvesh.m\\Repo\\learn-c-sharp\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sarve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sarvesh.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
