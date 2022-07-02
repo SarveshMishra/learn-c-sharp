@@ -15,9 +15,9 @@ namespace Project
             FTE.firstName = "Sarvesh";
             FTE.lastName = "Mishra";
             FTE.email = "sarvesh.m@carwale.com";
-            FTE.yearlySalary = "15000000000";
+            FTE.yearlySalary = 15000000000;
             FTE.PrintFullName(); // Print children method by hiding parent method.
-            ((Employee).FTE.PrintFullName()); // Print full name from parent method because it is type casting with parent method
+            // ((Employee).FTE.PrintFullName()); // Print full name from parent method because it is type casting with parent method
         }
     }
 }
