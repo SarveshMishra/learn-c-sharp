@@ -4,9 +4,9 @@ namespace Project.BL
 {
     public class Employee
     {
-        public string firstName;
-        public string lastName;
-        public string email;
+        public string? firstName;
+        public string? lastName;
+        public string? email;
         public void PrintFullName()
         {
             Console.WriteLine($"{firstName} {lastName}");
@@ -26,4 +26,5 @@ namespace Project.BL
     {
         public float hourlySalary;
     }
+   
 }
